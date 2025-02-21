@@ -1,2 +1,0 @@
-# CarDekho-Price-Prediction
-CarDekho
